@@ -16,7 +16,7 @@ Flow is a state of consciousness characterized by full absorption in the present
 
 We could make the connection between flow and Nietzsche in any number of ways.  The most interesting for me is by way of a larger question: why do we care about philosophy, science, or truth anyways?  
 
-In The Gay Science, Nietzsche wrote the following: “what was at stake in all philosophizing hitherto was not at all ‘truth’ but rather something else—let us say health, future, growth, power, life…”  Nietzsche’s project departs from the conventional sense of truth.  It’s not about understanding the external world with certainty.  It’s not about mapping a universal and unchanging essence behind fleeting appearances.  For him, the desire for certainty is a mark of sickness.  The project is to make science gay in the sense of orienting it towards health and playfulness.
+In _The Gay Science_, Nietzsche wrote the following: “what was at stake in all philosophizing hitherto was not at all ‘truth’ but rather something else—let us say health, future, growth, power, life…”  Nietzsche’s project departs from the conventional sense of truth.  It’s not about understanding the external world with certainty.  It’s not about mapping a universal and unchanging essence behind fleeting appearances.  For him, the desire for certainty is a mark of sickness.  The project is to make science gay in the sense of orienting it towards health and playfulness.
 
 This is where the science of flow comes in.  Nietzsche’s project can be seen as what he calls the will to power, or a self-overcoming force.  He never defines this force concretely, likely to leave it open to the interpretation of the reader.  Flow science as the science of human performance has inherited Nietzsche’s project.
 
@@ -32,7 +32,8 @@ What I’ve found in this process is that there are many people like me.  Many p
 
 I receive many emails each week showing interest in understanding the state, lending a hand on the research, or trying to build companies or new communities around flow.  Take a step back to examine what that means: people are willing to volunteer their time free of charge for this state.  It’s paradoxical.  It defies the logic of humans as pleasure-seeking animals who are stumbling around the planet avoiding pain and looking for a good party.
 
-This has led me to be a lot more public with some of the things I’ve been working on.  This blog is an attempt to capture that.  In the words of one luminary, whether you love him or hate him: “Find the others…”
+This has led me to be a lot more public with some of the things I’ve been working on.  This blog is an attempt to capture that.  <a href="https://www.goodreads.com/quotes/514216-admit-it-you-aren-t-like-them-you-re-not-even-close" target="_blank">In the words of one luminary</a>, whether you love him or hate him: “Find the others…”
+
 
 --------
 
