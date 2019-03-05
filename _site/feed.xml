@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+	<title>Conor B Murphy</title>
+	<description>The intersection of philosophy, neuroscience of flow states, and engineering peak performance
+</description>
+	<link>http://localhost:4000/</link>
+	<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+	<pubDate>Mon, 04 Mar 2019 19:17:20 -0800</pubDate>
+	<lastBuildDate>Mon, 04 Mar 2019 19:17:20 -0800</lastBuildDate>
+	<generator>Jekyll v3.8.5</generator>
+	
+
+		<item>
+			<title>Towards a Gay Science</title>
+			<description>&lt;p&gt;In the vast stream of information I’ve ingested over the course of my life, the writings of the German philosopher Friedrich Nietzsche have been consistent anchor points.  Reading Nietzsche for me—in his complexity, irreverence, and joyfulness—feels like remembering, like a homecoming. Many of my privileged memories from adolescence involve reading his books outside by a fire.  These ideas propelled me through multiple degrees in philosophy, helped me navigate life’s challenges with integrity, and balanced seriousness with playfulness in a seemingly contradictory way.&lt;/p&gt;
+
+&lt;p&gt;I left the academic tradition of philosophy because I found that it couldn’t balance this seriousness with playfulness.  Philosophy, for me, had become academic.  I saw philosophy in universities become a game of allegiances and tenure, another example of mistaking the map for the territory.&lt;/p&gt;
+
+&lt;p&gt;Thoreau once claimed that there are no longer any philosophers, only philosophy professors.  I knew of this quote from an early age, but it wasn’t until I was in grad school that I finally admitted that he was correct.  The tradition became serious.  And so I left.&lt;/p&gt;
+
+&lt;p&gt;While I left the university halls of academia, I never lost track of the Nietzschean project.  Instead, it began to take on new forms.&lt;/p&gt;
+
+&lt;p&gt;Flow is a state of consciousness characterized by full absorption in the present.  It’s the key to performance, as we perform at our best in flow.  It also answers the existential question: what meaning does my life have?  As Kafka once said that “the meaning of life is that it ends,” in some weird recursive way, I’ve come to feel that the meaning of life is to live life.  The more time you spend in the present—rather than ruminating about the past or anxious about the future—the more meaningful life becomes.  Flow is, after all, really just deep presence.&lt;/p&gt;
+
+&lt;p&gt;We could make the connection between flow and Nietzsche in any number of ways.  The most interesting for me is by way of a larger question: why do we care about philosophy, science, or truth anyways?&lt;/p&gt;
+
+&lt;p&gt;In The Gay Science, Nietzsche wrote the following: “what was at stake in all philosophizing hitherto was not at all ‘truth’ but rather something else—let us say health, future, growth, power, life…”  Nietzsche’s project departs from the conventional sense of truth.  It’s not about understanding the external world with certainty.  It’s not about mapping a universal and unchanging essence behind fleeting appearances.  For him, the desire for certainty is a mark of sickness.  The project is to make science gay in the sense of orienting it towards health and playfulness.&lt;/p&gt;
+
+&lt;p&gt;This is where the science of flow comes in.  Nietzsche’s project can be seen as what he calls the will to power, or a self-overcoming force.  He never defines this force concretely, likely to leave it open to the interpretation of the reader.  Flow science as the science of human performance has inherited Nietzsche’s project.&lt;/p&gt;
+
+&lt;p&gt;Flow became the latest incarnation of this project I inherited from Nietzsche.  It’s another term for the theme of health, vitality, and flourishing.  But using the more technical term flow has made this idea so much more actionable.  It allows me to talk about a state that is, after all, knowable and programmable.&lt;/p&gt;
+
+&lt;p&gt;What we know about flow is that if I change different inputs, I get more flow.  For instance, the challenge/skill balance is the so-called “golden rule” of flow.  If the challenge of the task at hand is a bit above my current skill level, I’m more likely to drop into flow.  Too much challenge and I’m overwhelmed; too little and I’m bored.&lt;/p&gt;
+
+&lt;p&gt;So this means that I’m programmable: I can change my actions and get different results.  Not only am I programmable, but it is I who can do the programming.  This is the heart of a gay science. It’s a unification of theory and practice all for this larger goal: the will to power.&lt;/p&gt;
+
+&lt;p&gt;Equipped with these ideas, I made many changes in my life.  I’ve skydived hundreds of times because danger is a flow trigger so action sports athletes find more flow than anybody else.  I now work in technology since the immediate feedback loops of programming and the fast-paced cadence of startups mean more flow.  I also volunteer early mornings and weekends doing research on flow and neuroscience.  I do this because working as a technologist has shown me that the limiting factor in building great things is how well we understand underlying mechanism.  More knowledge means more flow.&lt;/p&gt;
+
+&lt;p&gt;What I’ve found in this process is that there are many people like me.  Many people have struggled with making meaning in their lives, stumbled across flow (whether they use the term or not), and are willing to take risks and undergo drastic changes to orient their lives around the state.&lt;/p&gt;
+
+&lt;p&gt;I receive many emails each week showing interest in understanding the state, lending a hand on the research, or trying to build companies or new communities around flow.  Take a step back to examine what that means: people are willing to volunteer their time free of charge for this state.  It’s paradoxical.  It defies the logic of humans as pleasure-seeking animals who are stumbling around the planet avoiding pain and looking for a good party.&lt;/p&gt;
+
+&lt;p&gt;This has led me to be a lot more public with some of the things I’ve been working on.  This blog is an attempt to capture that.  In the words of one luminary, whether you love him or hate him: “Find the others…”&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;If you’re interested in keeping up with my work in flow science, be sure to sign up for my newsletter below!&lt;/p&gt;
+</description>
+			<pubDate>Mon, 04 Mar 2019 10:34:56 -0800</pubDate>
+			<link>http://localhost:4000/2019/03/04/Towards-a-Gay-Science.html</link>
+			<guid isPermaLink="true">http://localhost:4000/2019/03/04/Towards-a-Gay-Science.html</guid>
+
+			
+
+			
+		</item>
+
+	
+
+		<item>
+			<title>Welcome to Jekyll!</title>
+			<description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+			<pubDate>Mon, 03 Oct 2016 18:41:07 -0700</pubDate>
+			<link>http://localhost:4000/jekyll/update/2016/10/03/welcome-to-jekyll.html</link>
+			<guid isPermaLink="true">http://localhost:4000/jekyll/update/2016/10/03/welcome-to-jekyll.html</guid>
+
+			
+
+			
+				<category>jekyll</category>
+			
+				<category>update</category>
+			
+		</item>
+
+	
+
+		<item>
+			<title>Lorem ipsum dolor</title>
+			<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta temporibus quis voluptatem numquam quisquam, placeat, aut sit, non porro, nulla ea ullam voluptas. Illo numquam, autem esse, ad tempora in. Mauris posuere massa augue, eget vulputate felis pellentesque et. Phasellus non nunc sit amet diam rutrum tempus et eu quam. In posuere metus eu diam euismod, sodales eleifend dolor volutpat.&lt;/p&gt;
+
+&lt;p&gt;Nullam placerat turpis sit amet ipsum porttitor tincidunt. Nunc suscipit rutrum neque sit amet maximus. Morbi sit amet ornare sem, vitae maximus nisi. Fusce risus risus, ornare a ante a, varius semper nunc. Vestibulum dictum facilisis nisi, in porttitor est consequat non. Fusce luctus quis leo pretium efficitur ac et est. Cras feugiat velit nibh, eu posuere arcu suscipit rhoncus. Donec ac pretium ipsum. Mauris posuere massa augue, eget vulputate felis pellentesque et. Phasellus non nunc sit amet diam rutrum tempus et eu quam. In posuere metus eu diam euismod, sodales eleifend dolor volutpat. Pellentesque eget consequat nibh. Pellentesque a sem velit. Pellentesque ultrices mi orci, non suscipit massa condimentum a. Nulla eget dolor non est posuere congue in ac nunc. Cras placerat, ex eu consectetur faucibus, dolor elit imperdiet massa, nec pulvinar tortor sapien et diam. Curabitur nec lacus sed nibh porta suscipit. Donec egestas, mi at gravida pretium, quam est venenatis velit, non dictum libero nulla ac odio. Aliquam erat volutpat. Nulla facilisi. Pellentesque id tincidunt, at faucibus enim. Proin diam elit, laoreet id neque dapibus, venenatis commodo leo. Ut pellentesque at arcu eu sodales. Aliquam tempus venenatis ipsum ut dignissim. In eget tellus eu nunc iaculis pharetra.&lt;/p&gt;
+</description>
+			<pubDate>Thu, 22 Sep 2016 18:41:07 -0700</pubDate>
+			<link>http://localhost:4000/2016/09/22/lorem-ipsum-dolor.html</link>
+			<guid isPermaLink="true">http://localhost:4000/2016/09/22/lorem-ipsum-dolor.html</guid>
+
+			
+
+			
+		</item>
+
+	
+
+		<item>
+			<title>Amet consectetur</title>
+			<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta temporibus quis voluptatem numquam quisquam, placeat, aut sit, non porro, nulla ea ullam voluptas. Illo numquam, autem esse, ad tempora in. Mauris posuere massa augue, eget vulputate felis pellentesque et. Phasellus non nunc sit amet diam rutrum tempus et eu quam. In posuere metus eu diam euismod, sodales eleifend dolor volutpat.&lt;/p&gt;
+
+&lt;p&gt;Nullam placerat turpis sit amet ipsum porttitor tincidunt. Nunc suscipit rutrum neque sit amet maximus. Morbi sit amet ornare sem, vitae maximus nisi. Fusce risus risus, ornare a ante a, varius semper nunc. Vestibulum dictum facilisis nisi, in porttitor est consequat non. Fusce luctus quis leo pretium efficitur ac et est. Cras feugiat velit nibh, eu posuere arcu suscipit rhoncus. Donec ac pretium ipsum. Mauris posuere massa augue, eget vulputate felis pellentesque et. Phasellus non nunc sit amet diam rutrum tempus et eu quam. In posuere metus eu diam euismod, sodales eleifend dolor volutpat. Pellentesque eget consequat nibh. Pellentesque a sem velit. Pellentesque ultrices mi orci, non suscipit massa condimentum a. Nulla eget dolor non est posuere congue in ac nunc. Cras placerat, ex eu consectetur faucibus, dolor elit imperdiet massa, nec pulvinar tortor sapien et diam. Curabitur nec lacus sed nibh porta suscipit. Donec egestas, mi at gravida pretium, quam est venenatis velit, non dictum libero nulla ac odio. Aliquam erat volutpat. Nulla facilisi. Pellentesque id tincidunt, at faucibus enim. Proin diam elit, laoreet id neque dapibus, venenatis commodo leo. Ut pellentesque at arcu eu sodales. Aliquam tempus venenatis ipsum ut dignissim. In eget tellus eu nunc iaculis pharetra.&lt;/p&gt;
+</description>
+			<pubDate>Fri, 09 Sep 2016 18:41:07 -0700</pubDate>
+			<link>http://localhost:4000/2016/09/09/amet-consectetur.html</link>
+			<guid isPermaLink="true">http://localhost:4000/2016/09/09/amet-consectetur.html</guid>
+
+			
+
+			
+		</item>
+
+	
+
+		<item>
+			<title>Sed mattis nunc lorem</title>
+			<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta temporibus quis voluptatem numquam quisquam, placeat, aut sit, non porro, nulla ea ullam voluptas. Illo numquam, autem esse, ad tempora in. Mauris posuere massa augue, eget vulputate felis pellentesque et. Phasellus non nunc sit amet diam rutrum tempus et eu quam. In posuere metus eu diam euismod, sodales eleifend dolor volutpat.&lt;/p&gt;
+
+&lt;p&gt;Nullam placerat turpis sit amet ipsum porttitor tincidunt. Nunc suscipit rutrum neque sit amet maximus. Morbi sit amet ornare sem, vitae maximus nisi. Fusce risus risus, ornare a ante a, varius semper nunc. Vestibulum dictum facilisis nisi, in porttitor est consequat non. Fusce luctus quis leo pretium efficitur ac et est. Cras feugiat velit nibh, eu posuere arcu suscipit rhoncus. Donec ac pretium ipsum. Mauris posuere massa augue, eget vulputate felis pellentesque et. Phasellus non nunc sit amet diam rutrum tempus et eu quam. In posuere metus eu diam euismod, sodales eleifend dolor volutpat. Pellentesque eget consequat nibh. Pellentesque a sem velit. Pellentesque ultrices mi orci, non suscipit massa condimentum a. Nulla eget dolor non est posuere congue in ac nunc. Cras placerat, ex eu consectetur faucibus, dolor elit imperdiet massa, nec pulvinar tortor sapien et diam. Curabitur nec lacus sed nibh porta suscipit. Donec egestas, mi at gravida pretium, quam est venenatis velit, non dictum libero nulla ac odio. Aliquam erat volutpat. Nulla facilisi. Pellentesque id tincidunt, at faucibus enim. Proin diam elit, laoreet id neque dapibus, venenatis commodo leo. Ut pellentesque at arcu eu sodales. Aliquam tempus venenatis ipsum ut dignissim. In eget tellus eu nunc iaculis pharetra.&lt;/p&gt;
+</description>
+			<pubDate>Tue, 30 Aug 2016 18:41:07 -0700</pubDate>
+			<link>http://localhost:4000/2016/08/30/sed-mattis-nunc-lorem.html</link>
+			<guid isPermaLink="true">http://localhost:4000/2016/08/30/sed-mattis-nunc-lorem.html</guid>
+
+			
+
+			
+		</item>
+
+	
+
+		<item>
+			<title>Amet dolor sed mattis lorem</title>
+			<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta temporibus quis voluptatem numquam quisquam, placeat, aut sit, non porro, nulla ea ullam voluptas. Illo numquam, autem esse, ad tempora in. Mauris posuere massa augue, eget vulputate felis pellentesque et. Phasellus non nunc sit amet diam rutrum tempus et eu quam. In posuere metus eu diam euismod, sodales eleifend dolor volutpat.&lt;/p&gt;
+
+&lt;p&gt;Nullam placerat turpis sit amet ipsum porttitor tincidunt. Nunc suscipit rutrum neque sit amet maximus. Morbi sit amet ornare sem, vitae maximus nisi. Fusce risus risus, ornare a ante a, varius semper nunc. Vestibulum dictum facilisis nisi, in porttitor est consequat non. Fusce luctus quis leo pretium efficitur ac et est. Cras feugiat velit nibh, eu posuere arcu suscipit rhoncus. Donec ac pretium ipsum. Mauris posuere massa augue, eget vulputate felis pellentesque et. Phasellus non nunc sit amet diam rutrum tempus et eu quam. In posuere metus eu diam euismod, sodales eleifend dolor volutpat. Pellentesque eget consequat nibh. Pellentesque a sem velit. Pellentesque ultrices mi orci, non suscipit massa condimentum a. Nulla eget dolor non est posuere congue in ac nunc. Cras placerat, ex eu consectetur faucibus, dolor elit imperdiet massa, nec pulvinar tortor sapien et diam. Curabitur nec lacus sed nibh porta suscipit. Donec egestas, mi at gravida pretium, quam est venenatis velit, non dictum libero nulla ac odio. Aliquam erat volutpat. Nulla facilisi. Pellentesque id tincidunt, at faucibus enim. Proin diam elit, laoreet id neque dapibus, venenatis commodo leo. Ut pellentesque at arcu eu sodales. Aliquam tempus venenatis ipsum ut dignissim. In eget tellus eu nunc iaculis pharetra.&lt;/p&gt;
+</description>
+			<pubDate>Fri, 22 Jul 2016 18:41:07 -0700</pubDate>
+			<link>http://localhost:4000/2016/07/22/amet-dolor-sed-mattis-lorem.html</link>
+			<guid isPermaLink="true">http://localhost:4000/2016/07/22/amet-dolor-sed-mattis-lorem.html</guid>
+
+			
+
+			
+		</item>
+
+	
+
+		<item>
+			<title>Tempus dolor magna</title>
+			<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta temporibus quis voluptatem numquam quisquam, placeat, aut sit, non porro, nulla ea ullam voluptas. Illo numquam, autem esse, ad tempora in. Mauris posuere massa augue, eget vulputate felis pellentesque et. Phasellus non nunc sit amet diam rutrum tempus et eu quam. In posuere metus eu diam euismod, sodales eleifend dolor volutpat.&lt;/p&gt;
+
+&lt;p&gt;Nullam placerat turpis sit amet ipsum porttitor tincidunt. Nunc suscipit rutrum neque sit amet maximus. Morbi sit amet ornare sem, vitae maximus nisi. Fusce risus risus, ornare a ante a, varius semper nunc. Vestibulum dictum facilisis nisi, in porttitor est consequat non. Fusce luctus quis leo pretium efficitur ac et est. Cras feugiat velit nibh, eu posuere arcu suscipit rhoncus. Donec ac pretium ipsum. Mauris posuere massa augue, eget vulputate felis pellentesque et. Phasellus non nunc sit amet diam rutrum tempus et eu quam. In posuere metus eu diam euismod, sodales eleifend dolor volutpat. Pellentesque eget consequat nibh. Pellentesque a sem velit. Pellentesque ultrices mi orci, non suscipit massa condimentum a. Nulla eget dolor non est posuere congue in ac nunc. Cras placerat, ex eu consectetur faucibus, dolor elit imperdiet massa, nec pulvinar tortor sapien et diam. Curabitur nec lacus sed nibh porta suscipit. Donec egestas, mi at gravida pretium, quam est venenatis velit, non dictum libero nulla ac odio. Aliquam erat volutpat. Nulla facilisi. Pellentesque id tincidunt, at faucibus enim. Proin diam elit, laoreet id neque dapibus, venenatis commodo leo. Ut pellentesque at arcu eu sodales. Aliquam tempus venenatis ipsum ut dignissim. In eget tellus eu nunc iaculis pharetra.&lt;/p&gt;
+</description>
+			<pubDate>Mon, 04 Jul 2016 11:34:56 -0700</pubDate>
+			<link>http://localhost:4000/2016/07/04/tempus-dolor-magna.html</link>
+			<guid isPermaLink="true">http://localhost:4000/2016/07/04/tempus-dolor-magna.html</guid>
+
+			
+
+			
+		</item>
+
+	
+
+		<item>
+			<title>Veroeros sed etiam nullam</title>
+			<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta temporibus quis voluptatem numquam quisquam, placeat, aut sit, non porro, nulla ea ullam voluptas. Illo numquam, autem esse, ad tempora in. Mauris posuere massa augue, eget vulputate felis pellentesque et. Phasellus non nunc sit amet diam rutrum tempus et eu quam. In posuere metus eu diam euismod, sodales eleifend dolor volutpat.&lt;/p&gt;
+
+&lt;p&gt;Nullam placerat turpis sit amet ipsum porttitor tincidunt. Nunc suscipit rutrum neque sit amet maximus. Morbi sit amet ornare sem, vitae maximus nisi. Fusce risus risus, ornare a ante a, varius semper nunc. Vestibulum dictum facilisis nisi, in porttitor est consequat non. Fusce luctus quis leo pretium efficitur ac et est. Cras feugiat velit nibh, eu posuere arcu suscipit rhoncus. Donec ac pretium ipsum. Mauris posuere massa augue, eget vulputate felis pellentesque et. Phasellus non nunc sit amet diam rutrum tempus et eu quam. In posuere metus eu diam euismod, sodales eleifend dolor volutpat. Pellentesque eget consequat nibh. Pellentesque a sem velit. Pellentesque ultrices mi orci, non suscipit massa condimentum a. Nulla eget dolor non est posuere congue in ac nunc. Cras placerat, ex eu consectetur faucibus, dolor elit imperdiet massa, nec pulvinar tortor sapien et diam. Curabitur nec lacus sed nibh porta suscipit. Donec egestas, mi at gravida pretium, quam est venenatis velit, non dictum libero nulla ac odio. Aliquam erat volutpat. Nulla facilisi. Pellentesque id tincidunt, at faucibus enim. Proin diam elit, laoreet id neque dapibus, venenatis commodo leo. Ut pellentesque at arcu eu sodales. Aliquam tempus venenatis ipsum ut dignissim. In eget tellus eu nunc iaculis pharetra.&lt;/p&gt;
+</description>
+			<pubDate>Tue, 14 Jun 2016 11:34:56 -0700</pubDate>
+			<link>http://localhost:4000/2016/06/14/veroeros-sed-etiam-nullam.html</link>
+			<guid isPermaLink="true">http://localhost:4000/2016/06/14/veroeros-sed-etiam-nullam.html</guid>
+
+			
+
+			
+		</item>
+
+	
+
+		<item>
+			<title>Ipsum magna lorem</title>
+			<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta temporibus quis voluptatem numquam quisquam, placeat, aut sit, non porro, nulla ea ullam voluptas. Illo numquam, autem esse, ad tempora in. Mauris posuere massa augue, eget vulputate felis pellentesque et. Phasellus non nunc sit amet diam rutrum tempus et eu quam. In posuere metus eu diam euismod, sodales eleifend dolor volutpat.&lt;/p&gt;
+
+&lt;p&gt;Nullam placerat turpis sit amet ipsum porttitor tincidunt. Nunc suscipit rutrum neque sit amet maximus. Morbi sit amet ornare sem, vitae maximus nisi. Fusce risus risus, ornare a ante a, varius semper nunc. Vestibulum dictum facilisis nisi, in porttitor est consequat non. Fusce luctus quis leo pretium efficitur ac et est. Cras feugiat velit nibh, eu posuere arcu suscipit rhoncus. Donec ac pretium ipsum. Mauris posuere massa augue, eget vulputate felis pellentesque et. Phasellus non nunc sit amet diam rutrum tempus et eu quam. In posuere metus eu diam euismod, sodales eleifend dolor volutpat. Pellentesque eget consequat nibh. Pellentesque a sem velit. Pellentesque ultrices mi orci, non suscipit massa condimentum a. Nulla eget dolor non est posuere congue in ac nunc. Cras placerat, ex eu consectetur faucibus, dolor elit imperdiet massa, nec pulvinar tortor sapien et diam. Curabitur nec lacus sed nibh porta suscipit. Donec egestas, mi at gravida pretium, quam est venenatis velit, non dictum libero nulla ac odio. Aliquam erat volutpat. Nulla facilisi. Pellentesque id tincidunt, at faucibus enim. Proin diam elit, laoreet id neque dapibus, venenatis commodo leo. Ut pellentesque at arcu eu sodales. Aliquam tempus venenatis ipsum ut dignissim. In eget tellus eu nunc iaculis pharetra.&lt;/p&gt;
+</description>
+			<pubDate>Fri, 03 Jun 2016 11:34:56 -0700</pubDate>
+			<link>http://localhost:4000/2016/06/03/ipsum-magna-lorem.html</link>
+			<guid isPermaLink="true">http://localhost:4000/2016/06/03/ipsum-magna-lorem.html</guid>
+
+			
+
+			
+		</item>
+
+	
+
+		<item>
+			<title>Sed nisl adipiscing</title>
+			<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta temporibus quis voluptatem numquam quisquam, placeat, aut sit, non porro, nulla ea ullam voluptas. Illo numquam, autem esse, ad tempora in. Mauris posuere massa augue, eget vulputate felis pellentesque et. Phasellus non nunc sit amet diam rutrum tempus et eu quam. In posuere metus eu diam euismod, sodales eleifend dolor volutpat.&lt;/p&gt;
+
+&lt;p&gt;Nullam placerat turpis sit amet ipsum porttitor tincidunt. Nunc suscipit rutrum neque sit amet maximus. Morbi sit amet ornare sem, vitae maximus nisi. Fusce risus risus, ornare a ante a, varius semper nunc. Vestibulum dictum facilisis nisi, in porttitor est consequat non. Fusce luctus quis leo pretium efficitur ac et est. Cras feugiat velit nibh, eu posuere arcu suscipit rhoncus. Donec ac pretium ipsum. Mauris posuere massa augue, eget vulputate felis pellentesque et. Phasellus non nunc sit amet diam rutrum tempus et eu quam. In posuere metus eu diam euismod, sodales eleifend dolor volutpat. Pellentesque eget consequat nibh. Pellentesque a sem velit. Pellentesque ultrices mi orci, non suscipit massa condimentum a. Nulla eget dolor non est posuere congue in ac nunc. Cras placerat, ex eu consectetur faucibus, dolor elit imperdiet massa, nec pulvinar tortor sapien et diam. Curabitur nec lacus sed nibh porta suscipit. Donec egestas, mi at gravida pretium, quam est venenatis velit, non dictum libero nulla ac odio. Aliquam erat volutpat. Nulla facilisi. Pellentesque id tincidunt, at faucibus enim. Proin diam elit, laoreet id neque dapibus, venenatis commodo leo. Ut pellentesque at arcu eu sodales. Aliquam tempus venenatis ipsum ut dignissim. In eget tellus eu nunc iaculis pharetra.&lt;/p&gt;
+</description>
+			<pubDate>Sun, 22 May 2016 11:34:56 -0700</pubDate>
+			<link>http://localhost:4000/2016/05/22/sed-nisl-adipiscing.html</link>
+			<guid isPermaLink="true">http://localhost:4000/2016/05/22/sed-nisl-adipiscing.html</guid>
+
+			
+
+			
+		</item>
+
+	
+	</channel>
+</rss>
