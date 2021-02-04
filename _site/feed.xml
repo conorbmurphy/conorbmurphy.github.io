@@ -6,9 +6,55 @@
 </description>
 	<link>http://conorbmurphy.com/</link>
 	<atom:link href="http://conorbmurphy.com/feed.xml" rel="self" type="application/rss+xml"/>
-	<pubDate>Wed, 13 Jan 2021 13:31:10 -0800</pubDate>
-	<lastBuildDate>Wed, 13 Jan 2021 13:31:10 -0800</lastBuildDate>
+	<pubDate>Thu, 04 Feb 2021 10:56:39 -0800</pubDate>
+	<lastBuildDate>Thu, 04 Feb 2021 10:56:39 -0800</lastBuildDate>
 	<generator>Jekyll v4.2.0</generator>
+	
+
+		<item>
+			<title>AI, Stress and Information Juggernauts</title>
+			<description>&lt;p&gt;I was looking at all the holiday cards I received from family and friends this year thinking “man, I love staying in touch with people but don’t have a cute kid. Hell, I don’t even have an ugly one.”  One might not normally think of fun discoveries in neuroscience and artificial intelligence as “cute,” but they’re what fire me up most so I figured it’s as good an excuse as any to keep in touch.&lt;/p&gt;
+
+&lt;p&gt;To that end, the geeky shit I’ve been loving since my last newsletter…&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Exploring neural networks.&lt;/strong&gt;  Since I don’t have a kid but like hiking and math, here’s my version of a family Christmas card.  These images walk through the inner mechanics of a neural network, visualizing what different components of the network are doing in a complex algorithm.  Deep neural networks combine layers of artificial “neurons” that apply transformations to data. It starts with our input data. In our case, it’s a bunch of numerical values representing pixels in an image. The network takes that input and passes it through a series of layers where the output from the previous layer is the input to the next layer (roughly). Each layer transforms its inputs using what it has learned about the dataset so far. After going through many of these layers, it becomes possible to identify complex objects.  You can see how earlier layers are identifying basic strokes and shading while later layers are showing, well, a lot of animal faces.  That’s because this network was originally trained on a bunch of animal images.  &lt;a href=&quot;https://conorbmurphy.com/2021/01/13/Exploring-Neural-Networks.html&quot;&gt;Here’s a bit more detail if you’re interested.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/couple_image_combined_compressed.gif&quot; alt=&quot;Visualizing NNs&quot; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Flipping stress upside down.&lt;/strong&gt;  Is stress bad?  Well, it depends.  Normally we think of stress as bad, and this has been the prevailing logic for decades.  One study changed this. It took about 30k participants and observed them over 8 years in order to see how their stress &lt;em&gt;and their perception of stress&lt;/em&gt; affected their risk of premature death. The findings? Having high stress and a perception that stress is unhealthy &lt;em&gt;combined&lt;/em&gt; was associated with a 43% increase in premature death. However, those with high stress and the belief that stress was healthy had lower mortality rates than those with low stress! This points to the idea that mindset really matters. &lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/22201278/&quot;&gt;The researchers go so far as to claim&lt;/a&gt; that the mindset that stress in unhealthy is associated with 20k US deaths a year, the 15th highest cause of death above both AIDs and homicide.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;State of AI.&lt;/strong&gt; The artificial intelligence research organization OpenAI released a new pretrained model known as &lt;a href=&quot;https://en.wikipedia.org/wiki/GPT-3&quot;&gt;GPT-3&lt;/a&gt;.  Pretrained models allow you to reuse the findings of one AI model on new use cases.  This one absolutely dwarfs the complexity of previous models.  It’s a natural language model used to generate human-like text.  It cost an estimated $10M for the compute resources to train it alone.  Here’s a comparison of the complexity of this new model when compared to other state-of-the-art models as quantified by the number of “parameters,” which is basically the individual units of information the model is learning.  For the full geeky rundown, &lt;a href=&quot;https://docs.google.com/presentation/d/1ZUimafgXCBSLsgbacd6-a-dqO7yLyzIl1ZJbiCBUUT4/edit#slide=id.g557254d430_0_0&quot;&gt;see this State of AI Report.&lt;/a&gt; This means anybody can use reuse this best-in-class natural language producing algorithm without racking up a $10M bill. It’s truly mind-boggling how open sourcing this type of solution advances industries.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/state-of-ai.png&quot; alt=&quot;State of AI&quot; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;High impact career.&lt;/strong&gt;  You have 80k hours in your career. How do you use them to have the most impact? That’s the idea behind &lt;a href=&quot;80k Hours&quot;&gt;the startup 80k Hours.&lt;/a&gt; It’s career guidance that optimizes for impact. Should you create a startup that addresses the world’s toughest problems? Or make a bunch of money at a corporation and donate it? I’ve used this site many times in my career to work through these ideas.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Being an information juggernaut.&lt;/strong&gt;  The firehose of information we receive each day is somewhere around 174 newspapers worth a day.  Oh, and &lt;a href=&quot;https://www.telegraph.co.uk/news/science/science-news/8316534/Welcome-to-the-information-age-174-newspapers-a-day.html&quot;&gt;that study&lt;/a&gt; was from a decade ago.  Compare that with just 2.5 pages worth back in 1986.  So how do you navigate so much information?  My favorite strategy has a few tenants:
+    &lt;ul&gt;
+      &lt;li&gt;Prioritize books because they have the greatest density of information (think of how long a blogger takes to write an article when compared with a book)&lt;/li&gt;
+      &lt;li&gt;Your attention is one of the most important things in the world since all your experience is really just the summation of things you paid attention to.  Make sure the author earns that attention. Be an unapologetic skimmer&lt;/li&gt;
+      &lt;li&gt;Take note of every book that’s recommended to you and at least read the summary.  If the summary entices you, read the table of contents.  And if that earns more of your time, read a few pages of the introduction&lt;/li&gt;
+      &lt;li&gt;Still not sure if it’s worth the read?  Try a service &lt;a href=&quot;https://www.blinkist.com/&quot;&gt;like Blinkist&lt;/a&gt; that gives you a TED-talk length, 15 minute summary of the book.  Then decide whether it’s worth the time&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And that’s a wrap! Hope this didn’t suck. Be sure to let me know what you think about the topics and format.&lt;/p&gt;
+
+&lt;p&gt;Conor&lt;/p&gt;
+
+&lt;p&gt;PS. Feel free to share if you know of somebody else who might get a kick out of it!&lt;/p&gt;
+</description>
+			<pubDate>Wed, 03 Feb 2021 22:00:00 -0800</pubDate>
+			<link>http://conorbmurphy.com/2021/02/03/AI-Stress-and-Information-Juggernauts.html</link>
+			<guid isPermaLink="true">http://conorbmurphy.com/2021/02/03/AI-Stress-and-Information-Juggernauts.html</guid>
+
+			
+
+			
+		</item>
+
 	
 
 		<item>
