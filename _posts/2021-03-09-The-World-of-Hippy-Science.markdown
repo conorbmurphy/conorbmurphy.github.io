@@ -4,10 +4,6 @@ title:  "The World of Hippy Science"
 date:   2021-03-09 00:00:00 -0600
 ---
 
-Hey folks,
-
-First off, thanks for the feedback on the newsletter.  The people have spoken: longer form writing is preferred over mega-dense bullets.  So here goes nothing...
-
 I recently decided to make an investment into a cannabis-focused public benefit corporation (think part company, part nonprofit).  So I figured it was a good chance to talk about the good, the bad, and the ugly of cannabis.  Yes, cannabis.  Whose research used to be dismissed as "hippy science" but whose benefits and drawbacks are now a lot better understood.  So here we'll exchange our flower leis and bongos for lab coats and clipboards to dive into that strange world of the hippy science of cannabis.
 
 First off: cannabis 101.  The plant has been used medicinally and recreationally for at least 5,000 years.  Cannabis targets the body's so-called "endocannabinoid system" which is responsible for many things.  Like, a crazy number of things.  Many of its functions are autoregulatory where it helps the brain and body maintain homeostasis.  Medically, cannabis has been FDA approved for the treatment of epilepsy and  it also has well-studied effects including for anti-inflamatory, anti-anxiety, anti-psychotic, and pain reduction applications, to name a few.  Evolutionarily, you can trace the endocannabinoid system back as far as sea-squirts.  Yes, these guys whose earliest shared common ancestor with humans is around 550 million years ago:
